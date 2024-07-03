@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seif-eddine-mouihbi&show_icons=true&locale=en&layout=compact" alt="seif-eddine-mouihbi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seif-eddine-mouihbi&show_icons=true&locale=en" alt="seif-eddine-mouihbi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seif-eddine-mouihbi&show_icons=true&locale=en&theme=transparent" alt="seif-eddine-mouihbi" /></p>
