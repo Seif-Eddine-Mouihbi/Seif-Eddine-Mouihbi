@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **about fetching data from api just using javascript without framework**
 
-- 💬 Ask me about **HTML5, CSS3, javaScript**
+- 💬 Ask me about **HTML5, CSS3, javaScript, java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
