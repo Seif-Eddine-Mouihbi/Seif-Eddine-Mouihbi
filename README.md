@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seif Eddine Mouihbi</h1>
-<h3 align="center">A Self Study, A frontend developer from Tunisia</h3>
+<h3 align="center">A Self Study, As a Web Developer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seif-eddine-mouihbi&label=Profile%20views&color=0e75b6&style=flat" alt="seif-eddine-mouihbi" /> </p>
 
