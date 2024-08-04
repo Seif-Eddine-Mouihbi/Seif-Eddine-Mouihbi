@@ -5,7 +5,7 @@
 
 <!-- - 🔭 I’m currently working on **Photos Collection project** -->
 
-- 🌱 I’m currently learning **about fetching data from api just using javascript without framework**
+- 🌱 I’m currently Started learning **React Js Library**
 
 - 💬 Ask me about **HTML5, CSS3, javaScript, java**
 
