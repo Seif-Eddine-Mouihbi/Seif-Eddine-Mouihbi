@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seif-eddine-mouihbi&label=Profile%20views&color=0e75b6&style=flat" alt="seif-eddine-mouihbi" /> </p>
 
-- 🔭 I’m currently working on **Photos Collection project**
+<!-- - 🔭 I’m currently working on **Photos Collection project** -->
 
 - 🌱 I’m currently learning **about fetching data from api just using javascript without framework**
 
